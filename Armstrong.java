@@ -1,5 +1,5 @@
 package javabasics;
-
+//creating conflict
 public class Armstrong {
 	public static void main(String[] args) {
 		int num=153,rem,temp,arm=0;
